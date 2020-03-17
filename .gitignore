@@ -5,6 +5,7 @@ Saved
 /Content/KiteDemo
 .vscode
 .vs
+*.log
 *.VC.db
 *.opensdf
 *.opendb
